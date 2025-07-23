@@ -19,7 +19,6 @@
 
 - 🎓 **Tecnólogo** en [Análisis y Desarrollo de Software](https://www.sena.edu.co/) - [SENA Medellín](https://www.sena.edu.co/)
 - 💼 **Desarrollador Full Stack** con experiencia en **Python**, **Flask**, **JavaScript**, **React** y **Node.js**
-- 🚀 **Líder de proyectos** que optimizaron procesos empresariales, reduciendo tiempos operativos hasta un **40%**
 - 🏗️ **Experiencia comprobada** en sistemas internos como "Lista de Precios", "Tickets" y "Firmas Electrónicas"
 - 🤖 **Especialista en automatización** con Python/Scrapy, n8n, y gestión de datos en SQL Server, PostgreSQL y SharePoint
 - ⚡ **Metodologías ágiles** (Scrum) con mentalidad resolutiva y colaborativa
@@ -183,7 +182,6 @@
 Como desarrollador, me destaco por:
 
 - **🏗️ Pensamiento Arquitectónico**: Diseño soluciones escalables desde la concepción hasta la implementación
-- **📈 Orientación a Resultados**: Cada línea de código tiene un propósito y un impacto medible
 - **🔄 Ciclo Completo**: Experiencia en todas las etapas del desarrollo de software
 - **👥 Colaboración Efectiva**: Comunicación clara y trabajo en equipo multidisciplinario  
 - **🚀 Adaptabilidad**: Capacidad de integrarme y aportar valor desde el primer día
@@ -191,49 +189,6 @@ Como desarrollador, me destaco por:
 
 ---
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Estadísticas de GitHub
-
-<details><summary><h3> 🔥 Estadísticas de Racha</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=tokyonight_duo" alt="damian-munoz" /></p>
-
-</details>
-  
-<details><summary><h3>💻 Estadísticas del Perfil de GitHub</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Estadísticas de GitHub de Damián" src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&count_private=true&locale=es&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tuusuario&langs_count=10&show_icons=true&locale=es&theme=tokyonight" alt="damian-munoz" height="230px"/>
-<br/>
-
-  <b>Nota:</b> Los lenguajes principales son solo una métrica de los lenguajes de mi código público y no reflejan experiencia o nivel de habilidad.
-  </p>
-</details>
-
-<details><summary><h3>⚡ Actividad Reciente en GitHub</h3></summary>
-
-----
-	
-[![Gráfico de actividad de GitHub de Damián](https://github-readme-activity-graph.cyclic.app/graph?username=tuusuario&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</details>
-
-<details><summary> <h3> :trophy: Trofeos del Perfil </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuusuario&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="damian-munoz" /></a> </p>
-	
-</details>
 
 ## 🐍 Una Serpiente Comiendo mi Gráfico de Contribuciones
 	
