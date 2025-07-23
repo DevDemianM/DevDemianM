@@ -19,7 +19,7 @@ My stack includes modern tools like N8N, GitHub, Postman, and Flutter, and I'm p
 
 I'm open to opportunities in Latin America and worldwide where I can contribute to developing scalable solutions with real and tangible impact.
 
-- 📧 **Contact**: `damianpatinomunoz@gmail.com` | 📱 `+57 300 711 2285`
+- 📧 **Contact**: damianpatinomunoz@gmail.com | 📱 +57 300 711 2285
 
 <br>
 
@@ -188,11 +188,15 @@ As a developer, I stand out for:
 
 ---
 
-## 🐍 A Snake Eating My Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+## 🐍 My Real Contributions Snake Game
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/damianpatinodesigner/damianpatinodesigner/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/damianpatinodesigner/damianpatinodesigner/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/damianpatinodesigner/damianpatinodesigner/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 
