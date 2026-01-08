@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mí: "I don't just code; I optimize."
 
-Soy un **Desarrollador Full Stack** con una obsesión: la **eficiencia operativa**. Mi enfoque no es solo escribir líneas de código, sino diseñar arquitecturas que reduzcan costos y tiempos. 
+Soy un **Desarrollador Full Stack** con una Cualidad: la **eficiencia operativa**. Mi enfoque no es solo escribir líneas de código, sino diseñar arquitecturas que reduzcan costos y tiempos. 
 
 - 🎓 **Formación:** Tecnólogo en Análisis y Desarrollo de Software (SENA) & Estudiante de Ingeniería de Sistemas (TdeA).
 - 🛠️ **Mi enfoque:** Especializado en crear herramientas internas, automatización de flujos de trabajo (ETL) y sistemas escalables.
